@@ -33,7 +33,6 @@ header .logo{
 
 }
 
-
 header nav a{
     text-decoration:none;
     color: #AAA;
@@ -49,7 +48,8 @@ header nav a:hover{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/capa-suits.jpg');
 
-    height: 400px;
+    height: 630px;
+    width: 1700px;
     background-size: cover;
 
     display: flex;
@@ -82,7 +82,7 @@ header nav a:hover{
     font-size: 12px;
 
     cursor: pointer;
-    transition: .3s ease all;
+    transition: .1s ease all;
     margin-top: -20%;
 }
 
@@ -108,5 +108,5 @@ header nav a:hover{
 }
 
 .carrosel-filmes{
-    margin-top: 5px;
+    margin-top: 1px;
 }
